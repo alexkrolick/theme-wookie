@@ -1,0 +1,30 @@
+{
+    "name": "theme-wookie",
+    "displayName": "Wookie",
+    "description": "A syntax highlighting theme with forest hues",
+    "version": "0.0.1",
+    "publisher": "Alex",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Wookie",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Wookie.tmTheme",
+                "colors": {
+                    "editor.background": "#262422",
+                    "editor.foreground": "#EAEAD4",
+                    "editorIndentGuide.background": "#404040",
+                    "editorRuler.foreground": "#333333",
+                    "activityBarBadge.background": "#007acc",
+                    "sideBarTitle.foreground": "#f00"
+                }
+            }
+        ]
+    }
+}
