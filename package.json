@@ -3,7 +3,8 @@
     "displayName": "Wookie",
     "description": "A syntax highlighting theme with forest hues",
     "version": "0.0.1",
-    "publisher": "Alex",
+    "publisher": "alexkrolick",
+    "repository": "https://github.com/alexkrolick/theme-wookie",
     "engines": {
         "vscode": "^1.0.0"
     },
