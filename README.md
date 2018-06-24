@@ -2,10 +2,6 @@
 
 A Textmate theme with forest hues for VSCode & other compatible editors.
 
-![jsx - default](https://user-images.githubusercontent.com/1571667/41824801-8c47e186-77cb-11e8-96ca-21a3ffc9c73d.png)
-
-![jsx - dark](https://user-images.githubusercontent.com/1571667/41824800-8c2b08e0-77cb-11e8-949a-3057f182a1a8.png)
-
 ## Default
 
 ![default - json](https://user-images.githubusercontent.com/1571667/41824722-2018fec4-77ca-11e8-922b-0a16fb48e3b0.png)
