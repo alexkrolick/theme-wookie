@@ -33,7 +33,7 @@
                     "badge.background": "#719100",
                     "activityBarBadge.background": "#719100",
                     "tab.activeForeground": "#999",
-                    "tab.inactiveForeground": "#666",
+                    "tab.inactiveForeground": "#666"
                 }
             }
         ]
