@@ -2,10 +2,21 @@
 
 A Textmate theme with forest hues for VSCode & other compatible editors.
 
-![js](https://user-images.githubusercontent.com/1571667/29008311-742c2544-7ac9-11e7-9838-3b3ad6672a5b.png)
-![json](https://user-images.githubusercontent.com/1571667/29008312-74313fb6-7ac9-11e7-965d-4a97adcadc1b.png)
-![jsx](https://user-images.githubusercontent.com/1571667/29008313-74368aa2-7ac9-11e7-9a14-2d77bfdfbf1b.png)
-![xml](https://user-images.githubusercontent.com/1571667/29008314-743bdc1e-7ac9-11e7-97f7-9ae5188b8ab9.png)
+![jsx - default](https://user-images.githubusercontent.com/1571667/41824801-8c47e186-77cb-11e8-96ca-21a3ffc9c73d.png)
+
+![jsx - dark](https://user-images.githubusercontent.com/1571667/41824800-8c2b08e0-77cb-11e8-949a-3057f182a1a8.png)
+
+## Default
+
+![default - json](https://user-images.githubusercontent.com/1571667/41824722-2018fec4-77ca-11e8-922b-0a16fb48e3b0.png)
+
+![default - split](https://user-images.githubusercontent.com/1571667/41824726-20b00166-77ca-11e8-9011-731d02c27cc7.png)
+
+## Dark
+
+![dark -json](https://user-images.githubusercontent.com/1571667/41824721-1ff5b64e-77ca-11e8-99d7-f4d48d0e6dba.png)
+
+![dark - split](https://user-images.githubusercontent.com/1571667/41824727-20cc95c4-77ca-11e8-88c5-7d65ae218fe1.png)
 
 ## Customizations
 
