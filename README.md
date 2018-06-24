@@ -9,24 +9,12 @@ A Textmate theme with forest hues for VSCode & other compatible editors.
 
 ## Customizations
 
-User Settings:
+Place overrides in User Settings:
 
 ```json
 "workbench.colorCustomizations": {
   "[Wookie]": {
-    "editor.background": "#252029", // alternate background
-    "statusBar.background": "#333",
-    "statusBar.border": "#222",
-    "statusBar.foreground": "#888",
-    "activityBar.foreground": "#888",
-    "activityBar.border": "#222",
-    "sideBar.border": "#333333",
-    "sideBar.foreground": "#888888",
-    "gitDecoration.ignoredResourceForeground": "#555",
-    "badge.background": "#719100",
-    "activityBarBadge.background": "#719100",
-    "tab.activeForeground": "#999",
-    "tab.inactiveForeground": "#666",
+    "editor.background": "#252029",
   },
 }
 ```
