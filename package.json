@@ -19,6 +19,11 @@
                 "label": "Wookie",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Wookie.json"
+            },
+            {
+                "label": "Wookie - Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Wookie.json"
             }
         ]
     }
