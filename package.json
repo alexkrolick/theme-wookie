@@ -2,7 +2,7 @@
     "name": "theme-wookie",
     "displayName": "Wookie",
     "description": "A syntax highlighting theme with forest hues",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "publisher": "krolick",
     "author": "Alex Krolick",
     "license": "MIT",
@@ -23,7 +23,7 @@
             {
                 "label": "Wookie - Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Wookie.json"
+                "path": "./themes/Wookie - Dark.json"
             }
         ]
     }
