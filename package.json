@@ -21,8 +21,19 @@
                     "editor.foreground": "#EAEAD4",
                     "editorIndentGuide.background": "#404040",
                     "editorRuler.foreground": "#333333",
-                    "activityBarBadge.background": "#007acc",
-                    "sideBarTitle.foreground": "#f00"
+                    "sideBarTitle.foreground": "#f00",
+                    "statusBar.background": "#333",
+                    "statusBar.border": "#222",
+                    "statusBar.foreground": "#888",
+                    "activityBar.foreground": "#888",
+                    "activityBar.border": "#222",
+                    "sideBar.border": "#333333",
+                    "sideBar.foreground": "#888888",
+                    "gitDecoration.ignoredResourceForeground": "#555",
+                    "badge.background": "#719100",
+                    "activityBarBadge.background": "#719100",
+                    "tab.activeForeground": "#999",
+                    "tab.inactiveForeground": "#666",
                 }
             }
         ]
